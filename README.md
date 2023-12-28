@@ -101,9 +101,8 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
 <hr/>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
