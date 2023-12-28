@@ -32,13 +32,13 @@
 
 ###
 
-<h3 align="center">i'm Meriah Ibrahim  , a penetration tester and MERN stack from Algeria <br><br>- 🔭 I’m working as freelancer<br>- 📚 I'm currently learning eCPPTX<br>- ⚡ In my free time I do Hacking</h3>
+<h3 align="left">i'm Meriah Ibrahim  , a penetration tester and MERN stack from Algeria <br><br>- 🔭 I’m working as freelancer<br>- 📚 I'm currently learning eCPPTX<br>- ⚡ In my free time I do Hacking</h3>
 
-###
+<hr/>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools : </h3>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -103,6 +103,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<hr/>
 
 ###
 
