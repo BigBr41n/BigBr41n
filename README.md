@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/fa/de/06/fade06fdb98c309859796fb0e764ab0d.gif"  />
+  <img height="500" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"  />
 </div>
 
 ###
@@ -21,11 +21,11 @@
 
 ###
 
-<h1 align="center">Welcome 👋</h1>
+<h1 align="left">Welcome 👋</h1>
 
 ###
 
-<h3 align="center">👩‍💻  Who am I ?</h3>
+<h3 align="left">👩‍💻  Who am I ?</h3>
 
 ###
 
