@@ -5,3 +5,7 @@
 - 🏗️ Love building robust and scalable back-end infrastructures
 - 🚀 Currently enhancing my coding skills
 - 📫 Reach me at: ibrahim.abderrahim.meriah@gmail.com
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigBr41n&layout=compact&theme=dark)](https://github.com/BigBr41n)
+
