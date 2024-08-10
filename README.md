@@ -6,6 +6,12 @@
 - 🚀 Currently enhancing my coding skills
 - 📫 Reach me at: ibrahim.abderrahim.meriah@gmail.com
 
+----------------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigBr41n&layout=compact&theme=dark)](https://github.com/BigBr41n)
+
+----------------------------------------------------------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBr41n&show_icons=true&theme=transparent&hide=contribs)
+
 
