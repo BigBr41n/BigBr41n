@@ -12,6 +12,6 @@
 
 ----------------------------------------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBr41n&show_icons=true&theme=transparent&hide=contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBr41n&show_icons=true&theme=transparent)
 
 
