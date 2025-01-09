@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibrahim-Abderrahim-Meriah 
-- 🎓 Bachelor's degree student in Computer Science
-- 💻 Interests: Back-End Development, Penetration Testing, System Design, Blockchain
+- 🎓 Master's degree student in Computer Science
+- 💻 Interests: Back-End Development, System Design , Penetration testing and Malware analysis.
 - 🔍 Passionate about penetration testing, exploring vulnerabilities, and securing systems
 - 🏗️ Love building robust and scalable back-end infrastructures
 - 🚀 Currently enhancing my coding skills
