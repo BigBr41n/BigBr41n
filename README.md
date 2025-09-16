@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Ibrahim-Abderrahim-Meriah 
-- 🎓 Master's degree student in Computer Science
-- 💻 Interests: Back-End Development, System Design , Penetration testing and Malware analysis.
-- 🔍 Passionate about penetration testing, exploring vulnerabilities, and securing systems
-- 🏗️ Love building robust and scalable back-end infrastructures
-- 🚀 Currently enhancing my coding skills
-- 📫 Reach me at: ibrahim.abderrahim.meriah@gmail.com
+# 👋 Hi, I’m Ibrahim Abderrahim Meriah  
+
+- 🎓 Master’s student in Computer Science  
+- 💻 Passionate about **systems engineering**, low-level programming, and high-performance back-end development  
+- 🔍 Interested in **system security** and modern Linux internals (kernel, networking, and performance)  
+- 🏗️ Love building **robust and scalable infrastructures**  
+- 🚀 Always exploring new ways to push performance and reliability  
+- 🌐 Personal site: [abderrahim.sysnative.dev](https://abderrahim.sysnative.dev)  
+- 📝 I write about systems, performance, and security on [Medium](https://medium.com/@m-ibrahim.research)  
+- 📫 Reach me at: **ibrahim.abderrahim.meriah@gmail.com**
 
 ----------------------------------------------------------
 
